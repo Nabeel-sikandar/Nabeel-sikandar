@@ -49,7 +49,7 @@
 
 **🌐 Web & Mobile Development**
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,flutter,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,wordpress,flutter,java,c,cpp" />
 
 **☁️ Infrastructure & DevOps**
 <br>
