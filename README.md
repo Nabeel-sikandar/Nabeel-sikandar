@@ -5,9 +5,9 @@
 
 **Bridging the gap between intelligent backend systems and beautiful, user-centric frontends.**
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nabeel-sikandar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Nabeel-sikandar" />
-</p> -->
+</p> 
 
 ---
 
