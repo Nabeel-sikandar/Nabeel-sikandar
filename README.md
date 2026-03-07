@@ -63,12 +63,20 @@
 
 <div align="center">
 
-<a href="https://github.com/Nabeel-sikandar/discover-pakistan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nabeel-sikandar&repo=discover-pakistan&theme=shadow_blue&hide_border=false" />
+<a href="https://nabeel-sikandar.github.io/discover-pakistan/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nabeel-sikandar&repo=discover-pakistan&theme=shadow_blue&hide_border=false" alt="discover-pakistan" />
 </a>
-<a href="https://github.com/Nabeel-sikandar/neuracademia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nabeel-sikandar&repo=neuracademia&theme=shadow_blue&hide_border=false" />
+<a href="https://neuracademia.streamlit.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nabeel-sikandar&repo=neuracademia&theme=shadow_blue&hide_border=false" alt="neuracademia" />
 </a>
+
+<br><br>
+
+| 🌍 [Discover Pakistan](https://nabeel-sikandar.github.io/discover-pakistan/) | 🧠 [NeurAcademia](https://neuracademia.streamlit.app/) |
+|:---:|:---:|
+| A fully responsive, animation-rich tourism website | AI-Powered Student Performance Predictor |
+| ![CSS](https://img.shields.io/badge/CSS-53.3%25-blue?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-27.8%25-orange?style=flat-square) ![JS](https://img.shields.io/badge/JavaScript-18.9%25-yellow?style=flat-square) | ![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square) |
+| [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Site-0e75b6?style=for-the-badge)](https://nabeel-sikandar.github.io/discover-pakistan/) | [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Site-0e75b6?style=for-the-badge)](https://neuracademia.streamlit.app/) |
 
 </div>
 
