@@ -25,7 +25,7 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-<a href="www.linkedin.com/in/nabeel-sikandar01" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nabeel-sikandar01" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:nabeelsikandar.comsats@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/nabeel.sh_" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.facebook.com/share/17zXCXSiE6/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -59,6 +59,21 @@
 
 ---
 
+### 🏆 Featured Projects:
+
+<div align="center">
+
+<a href="https://github.com/Nabeel-sikandar/discover-pakistan">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nabeel-sikandar&repo=discover-pakistan&theme=shadow_blue&hide_border=false" />
+</a>
+<a href="https://github.com/Nabeel-sikandar/neuracademia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nabeel-sikandar&repo=neuracademia&theme=shadow_blue&hide_border=false" />
+</a>
+
+</div>
+
+---
+
 ### 📊 GitHub Dashboard:
 
 ![](https://github-readme-stats.vercel.app/api?username=Nabeel-sikandar&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -76,5 +91,17 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 ---
+
+### 💼 Let's Work Together!
+<div align="center">
+
+**I'm open to freelance work, collaborations, and exciting opportunities!**
+
+If you have a project in mind or just want to say hi, feel free to reach out! 🚀
+
+<a href="mailto:nabeelsikandar.comsats@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nabeel-sikandar01"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
 
 </div>
