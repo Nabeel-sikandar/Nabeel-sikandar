@@ -69,14 +69,17 @@
 <a href="https://neuracademia.streamlit.app/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nabeel-sikandar&repo=neuracademia&theme=shadow_blue&hide_border=false" alt="neuracademia" />
 </a>
+<a href="https://nbl-stores.vercel.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nabeel-sikandar&repo=nbl-stores&theme=shadow_blue&hide_border=false" alt="nbl-stores" />
+</a>
 
 <br><br>
 
-| 🌍 [Discover Pakistan](https://nabeel-sikandar.github.io/discover-pakistan/) | 🧠 [NeurAcademia](https://neuracademia.streamlit.app/) |
-|:---:|:---:|
-| A fully responsive, animation-rich tourism website | AI-Powered Student Performance Predictor |
-| ![CSS](https://img.shields.io/badge/CSS-53.3%25-blue?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-27.8%25-orange?style=flat-square) ![JS](https://img.shields.io/badge/JavaScript-18.9%25-yellow?style=flat-square) | ![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square) |
-| [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Site-0e75b6?style=for-the-badge)](https://nabeel-sikandar.github.io/discover-pakistan/) | [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Site-0e75b6?style=for-the-badge)](https://neuracademia.streamlit.app/) |
+| 🌍 [Discover Pakistan](https://nabeel-sikandar.github.io/discover-pakistan/) | 🧠 [NeurAcademia](https://neuracademia.streamlit.app/) | 🛒 [NBL Stores](https://nbl-stores.vercel.app/) |
+|:---:|:---:|:---:|
+| A fully responsive, animation-rich tourism website | AI-Powered Student Performance Predictor | E-commerce / storefront web app |
+| ![CSS](https://img.shields.io/badge/CSS-53.3%25-blue?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-27.8%25-orange?style=flat-square) ![JS](https://img.shields.io/badge/JavaScript-18.9%25-yellow?style=flat-square) | ![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square) | ![JavaScript](https://img.shields.io/badge/JavaScript-66.7%25-yellow?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-33.1%25-blue?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-0.2%25-orange?style=flat-square) |
+| [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Site-0e75b6?style=for-the-badge)](https://nabeel-sikandar.github.io/discover-pakistan/) | [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Site-0e75b6?style=for-the-badge)](https://neuracademia.streamlit.app/) | [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Site-0e75b6?style=for-the-badge)](https://nbl-stores.vercel.app/) |
 
 </div>
 
