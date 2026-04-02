@@ -61,17 +61,16 @@
 
 ### 🏆 Featured Projects:
 
-<p align="center">
-  <a href="https://nabeel-sikandar.github.io/discover-pakistan/">
-    <img src="discover pakistan.png" alt="Discover Pakistan" width="360" />
-  </a>
-  <a href="https://neuracademia.streamlit.app/">
-    <img src="neura acadamia.png" alt="Neuracademia" width="360" />
-  </a>
-  <a href="https://nbl-stores.vercel.app/">
-    <img src="nbl stores.png" alt="NBL Stores" width="360" />
-  </a>
-</p>
+<div align="center">
+
+| 🌍 Discover Pakistan | 🧠 Neuracademia | 🛒 NBL Stores |
+|:--:|:--:|:--:|
+| <a href="https://nabeel-sikandar.github.io/discover-pakistan/"><img src="./discover%20pakistan.png" width="260" alt="Discover Pakistan" /></a> | <a href="https://neuracademia.streamlit.app/"><img src="./neura%20acdamia.png" width="260" alt="Neuracademia" /></a> | <a href="https://nbl-stores.vercel.app/"><img src="./nbl%20stores.png" width="260" alt="NBL Stores" /></a> |
+| A responsive tourism website with rich animations. | AI-powered student performance predictor. | MERN eCommerce platform with admin panel. |
+| ![CSS](https://img.shields.io/badge/CSS-53.3%25-blue?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-27.8%25-orange?style=flat-square) ![JS](https://img.shields.io/badge/JavaScript-18.9%25-yellow?style=flat-square) | ![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square) | ![JavaScript](https://img.shields.io/badge/JavaScript-66.7%25-yellow?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-33.1%25-blue?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-0.2%25-orange?style=flat-square) |
+| [🔗 Live](https://nabeel-sikandar.github.io/discover-pakistan/) | [🔗 Live](https://neuracademia.streamlit.app/) | [🔗 Live](https://nbl-stores.vercel.app/) |
+
+</div>
 
 ---
 
