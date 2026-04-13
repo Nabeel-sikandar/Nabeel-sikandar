@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Nabeel Sikandar
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;UI%2FUX+Designer;Front-end+Engineer;Creative+Technologist" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stake+Developer;UI%2FUX+Designer;WordPress+Developer;AI%2FML+Developer;Creative+Technologist" alt="Typing SVG" />
 
 **Bridging the gap between intelligent backend systems and beautiful, user-centric frontends.**
 
