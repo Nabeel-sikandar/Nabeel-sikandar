@@ -14,12 +14,12 @@
 </div>
 
 ### 🚀 About Me:
-- 🔭 **Current Focus:** Integrating AI/ML models into high-performance web applications.
-- 👯 **Collaborations:** Partnering on **AI-driven UI/UX projects** or creative tech startups.
-- 🤝 **Seeking Help With:** Scaling ML models and mastering advanced **React/Next.js** patterns.
-- 🌱 **Current Learning:** Deep diving into the intersection of **Generative AI and Design**.
-- 💬 **Ask Me About:** ML Workflows, WordPress Development, and Graphic Design.
-- ⚡ **Fun Fact:** I have an eye for pixel-perfect design, but my code is where the real magic happens!
+- 🔭 **Current Focus**: Building full-stack MERN applications and integrating AI/ML into real-world web projects.
+- 👯 **Collaborations:** Open to partnering on AI-powered web apps, SaaS products, or innovative startup ideas.
+- 🤝 **Seeking Help With:** Mastering advanced Next.js patterns and scaling RAG / LangChain pipelines.
+- 🌱 **Current Learning:** Deep diving into Generative AI, LLMs, and RAG-based document systems.
+- 💬 **Ask Me About:** MERN Stack, REST APIs, Python scripting, AI/ML integration, and pixel-perfect UI.
+- ⚡ **Fun Fact:** I build AI-powered career guidance systems by day and obsess over Solo Leveling by night — the grind never stops! 🗡️
 
 ---
 
