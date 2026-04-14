@@ -19,7 +19,7 @@
 - 🤝 **Seeking Help With:** Mastering advanced Next.js patterns and scaling RAG / LangChain pipelines.
 - 🌱 **Current Learning:** Deep diving into Generative AI, LLMs, and RAG-based document systems.
 - 💬 **Ask Me About:** MERN Stack, REST APIs, Python scripting, AI/ML integration, and pixel-perfect UI.
-- ⚡ **Fun Fact:** I build AI-powered career guidance systems by day and obsess over Solo Leveling by night — the grind never stops!🗡️
+- ⚡ **Fun Fact:** Full-stack MERN dev by day, Solo Leveling fan by night — the grind never stops! 🗡️
 
 ---
 
